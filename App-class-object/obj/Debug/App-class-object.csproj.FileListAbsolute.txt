@@ -1,0 +1,6 @@
+c:\users\yaël\documents\visual studio 2015\Projects\App-class-object\App-class-object\bin\Debug\App-class-object.exe.config
+C:\Users\Yaël\documents\visual studio 2015\Projects\App-class-object\App-class-object\bin\Debug\App-class-object.exe
+C:\Users\Yaël\documents\visual studio 2015\Projects\App-class-object\App-class-object\bin\Debug\App-class-object.pdb
+C:\Users\Yaël\documents\visual studio 2015\Projects\App-class-object\App-class-object\obj\Debug\App-class-object.csprojResolveAssemblyReference.cache
+C:\Users\Yaël\documents\visual studio 2015\Projects\App-class-object\App-class-object\obj\Debug\App-class-object.exe
+C:\Users\Yaël\documents\visual studio 2015\Projects\App-class-object\App-class-object\obj\Debug\App-class-object.pdb
