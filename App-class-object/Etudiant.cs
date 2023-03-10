@@ -46,7 +46,7 @@ namespace App_class_object
         public void imprimBulletin()
         {
             Console.WriteLine(" Nom = " + nom);
-            Console.WriteLine($" Moyenne = {moyenne} \n Mention = {mention}");// afaka atao otranio koa le izy
+            Console.WriteLine($" Moyenne = {moyenne} \n Mention = {mention}");// afaka atao otranio koa le izy fa asina $ (dollar) eo alohany
             Console.ReadKey();
         }
     }
