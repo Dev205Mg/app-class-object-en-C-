@@ -45,9 +45,8 @@ namespace App_class_object
         }
         public void imprimBulletin()
         {
-            Console.WriteLine("Nom = " + nom);
-            Console.WriteLine("Moyenne = " + moyenne);
-            Console.WriteLine("Mention = " + mention);
+            Console.WriteLine(" Nom = " + nom);
+            Console.WriteLine($" Moyenne = {moyenne} \n Mention = {mention}");// afaka atao otranio koa le izy
             Console.ReadKey();
         }
     }
